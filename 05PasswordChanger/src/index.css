@@ -5,3 +5,14 @@
 h1{
   color:blue;
 }
+
+input{
+  text-align: center;
+}
+#ok{
+  background-color: green;
+  height: 55px;
+  width: fit-content;
+    border-radius: 10px;
+ 
+}
