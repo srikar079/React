@@ -39,3 +39,8 @@ bower_components
 psd
 thumb
 sketch
+
+.env
+
+conf
+config.js
